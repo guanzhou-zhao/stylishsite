@@ -1,2 +1,2 @@
 # stylishsite
-A flexalbe stylish functional site in html css
+A portfolio site in HTML, Bootstrap, JavaScript.
